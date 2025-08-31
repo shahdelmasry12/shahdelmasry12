@@ -58,6 +58,8 @@
 <br clear="both">
 
 ![Snake animation](https://github.com/shahdelmasry12/shahdelmasry12/blob/output/snake.svg)
+![Snake gif](https://github.com/shahdelmasry12/shahdelmasry12/blob/output/snake.gif)
+
 
 
 
