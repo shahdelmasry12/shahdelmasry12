@@ -2,8 +2,8 @@ name: generate snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # يشتغل كل 12 ساعة
-  workflow_dispatch:          # تشغليه يدوي
+    - cron: "0 */12 * * *"   
+  workflow_dispatch:          
   push:
     branches:
       - main
