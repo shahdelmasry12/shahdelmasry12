@@ -55,7 +55,7 @@
 
 ###
 
-### Snake animation
+<br clear="both">
 
 ![Snake animation](https://github.com/shahdelmasry12/shahdelmasry12/blob/output/snake.svg)
 
