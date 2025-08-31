@@ -57,7 +57,8 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/shahdelmasry12/shahdelmasry12/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/shahdelmasry12/shahdelmasry12/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
