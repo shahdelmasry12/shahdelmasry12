@@ -2,11 +2,11 @@ name: generate snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   
-  workflow_dispatch:          
+    - cron: "0 */12 * * *"   # يشتغل كل 12 ساعة
+  workflow_dispatch:          # تشغليه يدوي
   push:
     branches:
-      - main                  
+      - main
 
 jobs:
   build:
@@ -20,7 +20,8 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          svg_out_path: dist/snake.svg
+          gif_out_path: dist/snake.gif
 
       - name: Push snake to output branch
         uses: ad-m/github-push-action@master
@@ -28,5 +29,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
           force: true
+
 
 
