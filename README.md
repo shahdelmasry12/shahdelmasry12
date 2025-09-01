@@ -41,8 +41,3 @@
   <img src="https://streak-stats.demolab.com/?user=shahdelmasry12&theme=highcontrast" height="125"/> &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahdelmasry12&layout=compact&langs_count=6&theme=highcontrast" height="125"/>
 </p>
-
-### 🐍 Snake eating my contributions
-<p align="center">
-  <img src="https://github.com/shahdelmasry12/shahdelmasry12/blob/output/snake.svg" alt="Snake animation"/>
-</p>
